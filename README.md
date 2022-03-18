@@ -8,4 +8,6 @@
 ## Project_4 : Data Analysis with Housing Datasets:
 ** This dataset contains house sale prices. I used python pandas to perform data wrangling and exploratory data analsis to find out which feature of house is effecting the houses price.
 ## Project_5: Correlation in Python:
-** 
+** In this project i have taken  dataset from Kaggle that contains Movie industry data.In Jupyter notebooks, Cleaned and  Analyzed  data set  using python pandas to find out which movie feature has highest correlation with Gross earnings.
+## Project_6:
+
